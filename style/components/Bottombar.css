@@ -1,0 +1,23 @@
+.Bottombar {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.Bottombar__img{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.Bottombar__Text{
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 15px;
+}

@@ -1,0 +1,15 @@
+
+body {
+    background-color: black;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+span,
+strong {
+    color: rgb(255, 255, 255);
+    font-family: Heebo, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

@@ -3,4 +3,5 @@
 @import '../utils/general.css';
 @import '../components/Navbar.css';
 @import '../components/Perfil.css';
+@import '../components/Blog.css';
 @import '../components/Bottombar.css';

@@ -1,6 +1,6 @@
 
 body {
-    background-color: black;
+    background-color: rgb(255, 255, 255);
 }
 
 p,
@@ -10,6 +10,6 @@ h3,
 h4,
 span,
 strong {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-family: Heebo, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
